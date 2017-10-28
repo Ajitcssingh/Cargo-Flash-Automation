@@ -14,7 +14,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
 public class test {
-  //ajit cs
+  
 	@Test
 	
 	public void test1() throws InterruptedException{
